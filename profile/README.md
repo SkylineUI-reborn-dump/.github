@@ -9,10 +9,6 @@ Welcome to SkylineUI!
 
 SkylineUI a Pixel rom that integrates useful features from known custom ROMs.
 
-!The rom is WIP, do not compile for the moment¡
-
-Download to SkylineUI ( Soon :) )
-
 ### Beginner guide
 
 Visit these important repositories:
@@ -28,7 +24,7 @@ Visit these important repositories:
 ### Important Links
 
 - Website (Soon)
-- Telegram channel (Soon)
-- Telegram group (Soon)
+- [Telegram Channel](https://t.me/SkylineUI_UPDATES)
+- [Telegram Group](https://t.me/SkylineUI_ROM)
 
 Good luck in your compilation :)
