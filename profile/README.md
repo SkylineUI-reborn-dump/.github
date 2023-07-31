@@ -5,7 +5,7 @@ SkylineUI
 
 Welcome to SkylineUI!
 
-### Based on Android Open Source Releases 13.x QPR2 > QPR3 Comming Soon, pls no compile
+### Based on Android Open Source Releases 13.x QPR3
 
 SkylineUI a Pixel rom that integrates useful features from known custom ROMs.
 
