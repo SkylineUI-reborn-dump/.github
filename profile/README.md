@@ -15,7 +15,7 @@ Visit these important repositories:
 
 - [Manifest](https://github.com/SkylineUI/manifest)
 - [Vendor](https://github.com/SkylineUI/vendor_aosp)
-- Devices (Soon)
+- [Devices](https://github.com/SkylineUI-Devices)
  
 1. Follow the intructions in the [manifest](https://github.com/SkylineUI/manifest) repo to initialize the working directory.
 2. Use this [commit](https://github.com/SkylineUI/device_xiaomi_alioth/commit/dbffcd9ea0a2515d3263a284726c8694414d2144) as a reference to make a Bringup SkylineUI
@@ -26,5 +26,6 @@ Visit these important repositories:
 - Website (Soon)
 - [Telegram Channel](https://t.me/SkylineUI_UPDATES)
 - [Telegram Group](https://t.me/SkylineUI_ROM)
+- [Wallpapers](https://t.me/skylinewall)
 
 Good luck in your compilation :)
