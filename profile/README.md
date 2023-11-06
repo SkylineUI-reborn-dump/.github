@@ -23,9 +23,9 @@ Visit these important repositories:
 
 ### Important Links
 
-- Website (Soon)
 - [Telegram Channel](https://t.me/SkylineUI_UPDATES)
 - [Telegram Group](https://t.me/SkylineUI_ROM)
 - [Wallpapers](https://t.me/skylinewall)
+- Website (Soon)
 
 Good luck in your compilation :)
